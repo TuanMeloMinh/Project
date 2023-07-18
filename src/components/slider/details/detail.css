@@ -1,0 +1,11 @@
+#page1{
+    background-image: url(https://www.presse-citron.net/app/uploads/2022/09/iPhone-14-Pro-002.jpg);
+    height: 500px;
+}
+#page1Banner{
+    position: relative;
+}
+#bannerChild{
+    position: absolute;
+
+}

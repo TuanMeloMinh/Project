@@ -1,0 +1,23 @@
+#maiContent p{
+    color: black;
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+    font-size: 2.0rem;
+    font-weight: bold;
+    font-family: var(--font-heading-family);
+}
+.maiDesc strong{
+    color: #b8b5b5;
+    font-size: 22px;
+    letter-spacing: 3px;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+
+#maiPng{
+    padding-top: 30px;
+}
+#descTmei{
+    margin-top: 50px;
+}

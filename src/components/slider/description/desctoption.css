@@ -1,0 +1,56 @@
+
+#descFoo p{
+    color: black;
+    margin-left: 40px;
+}
+#descHea p {
+    color: black;
+    margin-left: 40px;
+    margin-top: 80px; 
+    letter-spacing: 1px;
+}
+#descHea strong{
+    color: #b8b5b5;
+    font-size: 22px;
+    letter-spacing: 3px;
+    margin-left: 20px;
+}
+#desc p{
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#desc strong{
+    color: black;
+    margin-left: 25px;
+    text-align: center;
+    font-size: 15px;
+}
+#descHea {
+    background-color: #fff;
+    font-size: 40px;
+    padding-bottom: 250px;
+}
+.introDesc img{
+    margin-left: 40px;
+}
+#descFoo p{
+    color: black;
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 40px;
+
+}
+#descFoo strong{
+    color: #b8b5b5;
+    font-size: 19px;
+    margin-left: 50px;
+    letter-spacing: 3px;
+}
+
+
+

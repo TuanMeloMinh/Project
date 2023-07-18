@@ -1,0 +1,23 @@
+#containerIntro{
+    padding-top: 30px;
+}
+#introIcons{
+    position: absolute;
+}
+#introType{
+    position: relative;
+}
+#introType p{
+   line-height: 20px;
+   font-size: 15px;
+   font-weight: bold;
+   text-align: center;
+   color: black;
+}
+
+#introIcons-ai{
+    width: 40px;
+    height: 50px;
+    margin-left: 110px;
+    color: black;
+}

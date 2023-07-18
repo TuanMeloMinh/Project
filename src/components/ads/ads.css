@@ -1,0 +1,22 @@
+#ads{
+    background-color: black;
+    width: auto;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+}
+#ads p {
+    color: #fff;
+    padding-top: 15px;
+}
+#collection{
+    color: red;
+    text-decoration: none;
+    padding-left: 5px;
+}
+#fontAds{
+    right: 2%;
+    bottom: 25%;
+    position: absolute;
+}

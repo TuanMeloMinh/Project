@@ -1,0 +1,17 @@
+.headerLogo{
+  position: absolute;
+  top: 20%;
+  transform: translateY(+20%);
+}
+#parent{
+    position: relative;
+}
+#parentBar li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 24px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #000;
+    transform: translateX(+250px);
+}
