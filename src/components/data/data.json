@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name": "Iphone 11 promax ",
+        "price" : "15.0000.000",
+        "phone" :"0975878558"
+    },
+    {
+        "id" : 2,
+        "name": "Iphone 12 promax ",
+        "price" : "19.0000.000",
+        "phone" :"0975878558"
+    },
+    {
+        "id" : 3,
+        "name": "Iphone 13 promax ",
+        "price" : "22.0000.000",
+        "phone" :"0975878558"
+    },
+    {
+        "id" : 4,
+        "name": "Iphone 14 promax ",
+        "price" : "25.0000.000",
+        "phone" :"0975878558"
+    },
+    {
+        "id" : 5,
+        "name": "Iphone XS max  ",
+        "price" : "10.0000.000",
+        "phone" :"0975878558"
+    }
+]

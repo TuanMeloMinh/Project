@@ -1,11 +1,72 @@
 #page1{
-    background-image: url(https://www.presse-citron.net/app/uploads/2022/09/iPhone-14-Pro-002.jpg);
-    height: 500px;
+    background-image: url(https://phono-demo.myshopify.com/cdn/shop/files/img-7_54376782-045f-4d57-bb5a-250e33d54a77.jpg?v=1613702304&width=1920);
+    height: 579px;
 }
 #page1Banner{
     position: relative;
 }
 #bannerChild{
     position: absolute;
-
+}
+#page1Header{
+    margin-top: 100px;
+}
+#page1 strong{
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+}
+#page1 p{
+    color: #b8b5b5;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    margin-left: 80px;
+}
+#bannerChild {
+    text-align: center;
+    justify-content: center;
+    margin-left: 500px;
+}
+#detailContent strong{
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+    color: black;
+}
+#detailContent p{
+    color: #b8b5b5;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    margin-left: 80px;
+}
+#detailContent{
+    margin-top: 100px;
+}
+#contentDeBox1 strong{
+    color: black;
+}
+.contentDeBox2 strong{
+    color: #000;
+}
+.contentDeBox2 p{
+    color: #b8b5b5;
+}
+#contentDeBox1 p {
+    color: #b8b5b5;
+}
+#contentDeFooter{
+    margin-top: 30px;
+}
+#contentDeBox1{
+    display: flex;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.contentDeBox2{
+    display: flex;
+    margin-top: 50px;
 }

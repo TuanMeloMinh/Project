@@ -1,0 +1,44 @@
+table th , table td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+#tableContainer{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    
+}
+table th , table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 40px;
+    font-size: larger;
+    color: blue;
+    background-color: aquamarine;
+}
+#barContainer{
+    position: relative;
+    padding: 0 1rem;
+    transition: .5s;
+}
+#nav-bar a{
+    text-decoration: none;
+}
+#nav-bar{
+    top: 0;
+    left: 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+    transition: .5s ;
+    background-color: #fff;
+}
+#nav{
+    height: 100vh;
+    background-color: grey;
+}

@@ -1,5 +1,6 @@
 
 import { Layout, Space } from 'antd';
+import React from 'react'
 import '../descfooter/descfooter.css'
     const { Header, Footer, Content } = Layout;
     const headerStyle = {

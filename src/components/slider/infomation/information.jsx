@@ -2,6 +2,7 @@
 import { Layout, Space } from 'antd';
 import '../infomation/information.css'
 import { Button } from 'antd';
+import React from 'react'
 const { Footer,  Content } = Layout;
 const contentStyle= {
     textAlign: 'center',
