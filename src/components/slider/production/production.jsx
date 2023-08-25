@@ -129,7 +129,7 @@
                         </div>
                     </div>
                 </Content>
-                <Footer style={footerStyle}>
+                <Footer style={footerStyle} id='hieuthu2'>
                     <div className="produFooter">
                         <div id='produFooterText'>
                             <strong>WELCOME TO PHONO SUPPORT. WE'RE HERE TO HELP.</strong>

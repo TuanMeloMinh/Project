@@ -13,7 +13,7 @@ const contentStyle= {
   };
     const Information = () => {
         return (
-            <Layout>
+            <Layout id='bLACKPINK'>
                 <Content style={contentStyle}>
                       <div id='informationChildren' >
                         <strong>JENNIFER F., CASPER CUSTOME</strong>

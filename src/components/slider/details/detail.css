@@ -70,3 +70,9 @@
     display: flex;
     margin-top: 50px;
 }
+#contentDeFooter{
+    background-color: #fff;
+}
+#shutDown{
+    margin-top: 80px;
+}

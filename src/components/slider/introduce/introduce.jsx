@@ -7,7 +7,7 @@ const Introduce = () => {
                 <div id="introduceChildren">
                     <h2>ZANIA BLACK EDITION</h2>
                     <h1>CURVY BEVEL <br/> DUAL AUDIO </h1>
-                    <button class="button-3" role="button" shape="round">SHOP NOW</button>
+                    <button className="button-3" role="button" shape="round">SHOP NOW</button>
                 </div>
                     
         </div>
