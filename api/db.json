@@ -1,0 +1,40 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 1",
+      "image": "https://phono-demo.myshopify.com/cdn/shop/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214&width=360",
+      "price": 10000,
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "name": "iphone 2",
+      "image": "https://phono-demo.myshopify.com/cdn/shop/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214&width=360",
+      "price": 20000,
+      "rate": 1.5
+    },
+    {
+      "id": 3,
+      "name": "iphone 3",
+      "image": "https://phono-demo.myshopify.com/cdn/shop/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214&width=360",
+      "price": 30000,
+      "rate": 2.5
+    },
+    {
+      "id": 4,
+      "name": "iphone 4",
+      "image": "https://phono-demo.myshopify.com/cdn/shop/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214&width=360",
+      "price": 40000,
+      "rate": 3.5
+    },
+    {
+      "id": 5,
+      "name": "iphone 5",
+      "image": "https://phono-demo.myshopify.com/cdn/shop/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214&width=360",
+      "price": 50000,
+      "rate": 5
+    }
+  ]
+}
