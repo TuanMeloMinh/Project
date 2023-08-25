@@ -10,15 +10,12 @@ const headerStyle = {
   
   const contentStyle= {
     textAlign: 'center',
-    minHeight: 120,
-    lineHeight: '20px',
     color: '#fff',
     backgroundColor: '#fff',
   };
   
   const siderStyle = {
     textAlign: 'center',
-    lineHeight: '120px',
     color: '#fff',
     backgroundColor: '#fff',
   };
@@ -38,9 +35,8 @@ const headerStyle = {
                         <strong>EXPERIENCE HIGH PERFORMANCE AND SECURE</strong>
                     </Header>
                         <Layout hasSider id="descLayout">
-                            <Sider style={siderStyle}></Sider>
-                            <Content style={contentStyle}>
-                              <div>
+                            <Content style={contentStyle} id="descBoxWxdi">
+                              <div id="descBoxContainer">
                                       <div  className="introDesc">
                                           <img src="https://phono-demo.myshopify.com/cdn/shop/files/ic12.png?v=1613704474&width=275"/>
                                       </div>
@@ -50,8 +46,8 @@ const headerStyle = {
                                       </div>
                               </div>
                             </Content>
-                            <Content style={contentStyle}>
-                              <div>
+                            <Content style={contentStyle} id="descBoxWxdi">
+                              <div  id="descBoxContainer">
                                       <div className="introDesc">
                                           <img src="https://phono-demo.myshopify.com/cdn/shop/files/ic13.png?v=1613704474&width=275"/>
                                       </div>
@@ -61,8 +57,8 @@ const headerStyle = {
                                       </div>
                               </div>
                             </Content>
-                            <Content style={contentStyle}>
-                              <div>
+                            <Content style={contentStyle} id="descBoxWxdi">
+                              <div  id="descBoxContainer">
                                       <div className="introDesc">
                                           <img src="https://phono-demo.myshopify.com/cdn/shop/files/ic11.png?v=1613704474&width=275"/>
                                       </div>

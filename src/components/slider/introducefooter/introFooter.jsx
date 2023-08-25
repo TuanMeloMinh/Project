@@ -1,15 +1,10 @@
 import React from "react";
 import '../introducefooter/introFooter.css'
-import { Layout, Space } from 'antd';
-import { AiOutlineCustomerService ,AiOutlineTags} from "react-icons/ai";
+import { Layout } from 'antd';
+
+import { AiOutlineCustomerService , AiOutlineTags } from "react-icons/ai";
 import { FaTruckFast} from "react-icons/fa6";
-const {   Sider, Content } = Layout;
-  const siderStyle = {
-    textAlign: 'center',
-    lineHeight: '120px',
-    color: '#fff',
-    backgroundColor: '#f5f5f5ef',
-  };
+const {   Content } = Layout;
   const contentStyle = {
     textAlign: 'center',
     minHeight: 120,
@@ -22,9 +17,8 @@ const {   Sider, Content } = Layout;
             <div>
                 <Layout id="containerIntro" >
                         <Layout hasSider>
-                            <Sider style={siderStyle}>Sider</Sider>
-                            <Content style={contentStyle} >
-                                <div>
+                            <Content style={contentStyle} id="introContent1" >
+                                <div id="introBoxContainer">
                                     <div id="introIcons">
                                         <FaTruckFast id="introIcons-ai"/>
                                     </div>
@@ -34,8 +28,8 @@ const {   Sider, Content } = Layout;
                                     </div>
                                 </div>
                             </Content>
-                            <Content style={contentStyle}>
-                                <div>
+                            <Content style={contentStyle} id="introContent1"  >
+                                <div id="introBoxContainer">
                                     <div id="introIcons">
                                         <AiOutlineTags id="introIcons-ai"/>
                                     </div>
@@ -45,8 +39,8 @@ const {   Sider, Content } = Layout;
                                     </div>
                                 </div>
                             </Content>
-                            <Content style={contentStyle}>
-                                <div>
+                            <Content style={contentStyle} id="introContent1" >
+                                <div id="introBoxContainer">
                                     <div id="introIcons">
                                         <AiOutlineCustomerService id="introIcons-ai"/>
                                     </div>
@@ -56,7 +50,6 @@ const {   Sider, Content } = Layout;
                                     </div>
                                 </div>
                             </Content>
-                            <Sider style={siderStyle}>Sider</Sider>
                         </Layout>       
                 </Layout>
             </div>

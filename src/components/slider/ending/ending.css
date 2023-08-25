@@ -1,0 +1,42 @@
+#endBox{
+    background-image: url('https://phono-demo.myshopify.com/cdn/shop/files/footer_ad0f20f1-29b5-4188-8127-a6667ac6aea9.jpg?v=1613702497&width=550');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+}
+#endBox1{
+    padding-top: 80px;
+}
+#box1Btn{
+    margin-top: 60px;
+    width: 500px;
+    margin-left: 36%;
+}
+#endBox1 strong{
+    margin-left: 10px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+    color: #fff;
+}
+#endBox1 p{
+    letter-spacing: 3px;
+    font-size: 15px;
+    margin: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+#endBox2{
+    margin-top: 80px;
+}
+
+#endBox2Nav li{
+    display: inline-block;
+}
+#endBox2Nav li a{
+    padding:  0 24px;
+    font-weight:  bold;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}

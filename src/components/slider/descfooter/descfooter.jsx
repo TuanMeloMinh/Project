@@ -1,5 +1,6 @@
 
 import { Layout, Space } from 'antd';
+import React from 'react'
 import '../descfooter/descfooter.css'
     const { Header, Footer, Content } = Layout;
     const headerStyle = {
@@ -18,12 +19,6 @@ import '../descfooter/descfooter.css'
         color: '#fff',
         backgroundColor: '#fff',
       };
-
-      const footerStyle = {
-        textAlign: 'center',
-        color: '#fff',
-        backgroundColor: '#000',
-      };
         const DescriptionMai = () => {
             return (
                 <Layout>
@@ -32,7 +27,7 @@ import '../descfooter/descfooter.css'
                     <p>POSSIBILITIES. PERFORMANCE. POWER</p>
                     <strong>FASTER PROCESSING WITH LESS POWER</strong>
                 </Content>
-                <Footer style={footerStyle} id='descTmei'>Footer</Footer>
+               
             </Layout>
             )
         }

@@ -1,6 +1,6 @@
 #rateContainer{
     margin-top: 70px;
-   
+   display: flex;
 }
 #ratePra {
    padding-top: 10%;
@@ -26,4 +26,5 @@
 }
 #rateImg img{
     height: 500px;
+    margin-right: 80px;
 }

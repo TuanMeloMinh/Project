@@ -1,0 +1,93 @@
+.prodHeader p{
+    color: #b8b5b5;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    margin-left: 80px;
+}
+.proHeaderCard{
+    margin-top: 80px;
+    
+}
+.prodHeader strong{
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+    color: black;
+}
+.prodHeader{
+    margin-top: 50px;
+}
+#proHeaderCard1{
+    left: 110%;
+}
+#proHeaderCard1DE ul  {
+   text-decoration: none;
+}
+#produContent{
+    margin-top: 550px;
+    background-image: url(https://phono-demo.myshopify.com/cdn/shop/files/footer_ad0f20f1-29b5-4188-8127-a6667ac6aea9_1920X_1.jpg?v=1621342028&width=1920);
+    height: 1000px;
+}
+#produContentText{
+    margin-top: 50px;
+}
+#produContentText strong{
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+    color: #fff;
+}
+#produContentText p{
+    color: #b8b5b5;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    margin-left: 80px;
+}
+#produContentDeImg{
+    width: 523px;
+    height: 520px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.produContentDetail p{
+    margin-top: 120px;
+    margin-right: 250px;
+}
+#closeContainerBox1{
+    display: flex;
+    position: absolute;
+    margin-left: 500px;
+    color: #000;
+}
+#closeContainerBox2{
+    display: flex;
+    margin-left: 1000px;
+    color: #000;
+}
+#closeContainer{
+    margin-top: 100px;
+}
+.produFooter{
+    margin-top: 80px;
+}
+#produFooterText strong{
+    margin-left: 70px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    font-size: 2.3rem;
+    font-family: var(--font-heading-family);
+    color: #000;
+}
+#produFooterText p{
+    color: #b8b5b5;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    margin-left: 80px;
+}
+#hieuthu2{
+    background-color: #fff;
+}
